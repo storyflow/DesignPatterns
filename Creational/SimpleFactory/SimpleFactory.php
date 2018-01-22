@@ -4,13 +4,16 @@ namespace Creational\SimpleFactory;
 
 class SimpleFactory
 {
-    public function createDog()
+    public function create($animal)
     {
-        return new Dog();
-    }
-
-    public function createCat()
-    {
-        return new Cat();
+        switch ($animal) {
+            case 'dog':
+                return new Dog();
+            case 'cat':
+                return new Cat();
+            default:
+                echo "error: not found -> $animal" . PHP_EOL;
+                break;
+        }
     }
 }
