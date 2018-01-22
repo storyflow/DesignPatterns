@@ -2,11 +2,9 @@
     * 创建型模式
 
         - [单例模式](https://github.com/han8gui/DesignPatterns/tree/master/Creational/Singleton)
-        - [简单工厂](https://github.com/han8gui/DesignPatterns/tree/master/Creational/SimpleFactory)
-        - [工厂模式](https://github.com/han8gui/DesignPatterns/tree/master/Creational/Factory)
-        - [静态工厂]
-        - [工厂方法模式]
-        - [抽象工厂模式]
+        - [简单工厂][补](https://github.com/han8gui/DesignPatterns/tree/master/Creational/SimpleFactory)
+        - [工厂方法模式](https://github.com/han8gui/DesignPatterns/tree/master/Creational/FactoryMethod)
+        - [抽象工厂模式](https://github.com/han8gui/DesignPatterns/tree/master/Creational/AbstractFactory)
         - [原型模式]
         - [建造者模式]
 
