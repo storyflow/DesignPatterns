@@ -11,14 +11,14 @@
 
 * 结构型模式
 
-    - [桥接模式]
-    - [享元模式]
-    - [外观模式]
-    - [适配器模式]
+    - [桥接模式](https://github.com/han8gui/DesignPatterns/tree/master/Structural/Bridge)
+    - [适配器模式](https://github.com/han8gui/DesignPatterns/tree/master/Structural/Adapter)
+    - [组合模式](https://github.com/han8gui/DesignPatterns/tree/master/Structural/Composite)
     - [装饰器模式]
-    - [组合模式]
     - [代理模式]
     - [过滤器模式]
+    - [享元模式]
+    - [外观模式]
 
 * 行为型模式
 
