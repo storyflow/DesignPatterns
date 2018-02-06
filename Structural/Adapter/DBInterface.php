@@ -1,6 +1,6 @@
 <?php
 
-namespace Structural\Adapter;;
+namespace Structural\Adapter;
 
 interface DBInterface
 {
