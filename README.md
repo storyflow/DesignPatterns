@@ -14,11 +14,10 @@
     - [桥接模式](https://github.com/han8gui/DesignPatterns/tree/master/Structural/Bridge)
     - [适配器模式](https://github.com/han8gui/DesignPatterns/tree/master/Structural/Adapter)
     - [组合模式](https://github.com/han8gui/DesignPatterns/tree/master/Structural/Composite)
-    - [装饰器模式]
-    - [代理模式]
-    - [过滤器模式]
-    - [享元模式]
-    - [外观模式]
+    - [装饰器模式](https://github.com/han8gui/DesignPatterns/tree/master/Structural/Decorator)
+    - [代理模式](https://github.com/han8gui/DesignPatterns/tree/master/Structural/Proxy)
+    - [享元模式](https://github.com/han8gui/DesignPatterns/tree/master/Structural/Flyweight)
+    - [外观模式](https://github.com/han8gui/DesignPatterns/tree/master/Structural/Facade)
 
 * 行为型模式
 
